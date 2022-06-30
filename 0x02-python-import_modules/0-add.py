@@ -6,5 +6,4 @@ b = 2
 print("{0} + {1} = {2}".format(a, b, add(a, b)))
 
 if __name__ == "__main__":
-    import sys
-    fib(int(sys.argv[1]))
+    pass
