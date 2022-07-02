@@ -7,7 +7,7 @@ Why Python programming is awesome, Who created Python, Who is Guido van Rossum, 
 <hr>
 
 * Write a Shell script that runs a Python script:
-    * **[0-run]()**
+    * **[0-run](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/0-run)**
 * Write a Shell script that runs Python code:
     * **[1-run_inline]()**
 * Write a Python script that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line:
