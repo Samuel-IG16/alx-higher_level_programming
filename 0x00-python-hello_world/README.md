@@ -17,13 +17,13 @@ Why Python programming is awesome, Who created Python, Who is Guido van Rossum, 
 * Complete the source code in order to print the float stored in the variable `number` with a precision of 2 digits:
     * **[4-print_float.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py)**
 * Complete this source code in order to print 3 times a string stored in the variable `str`, followed by its first 9 characters:
-    * **[5-print_string.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py)**
+    * **[5-print_string.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/5-print_string.py)**
 * Complete this source code to print `Welcome to Holberton School!`:
-    * **[6-concat.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py)**
+    * **[6-concat.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/6-concat.py)**
 * Complete this source code:
-    * **[7-edges.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py)**
+    * **[7-edges.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/7-edges.py)**
 * Complete this source code to print `object-oriented programming with Python`, followed by a new line:
-    * **[8-concat_edges.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py)**
+    * **[8-concat_edges.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/8-concat_edges.py)**
 * Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line:
     * **[9-easter_egg.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py)**
 * Write a function in C that checks if a singly linked list has a cycle in it:
