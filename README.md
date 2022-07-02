@@ -7,4 +7,4 @@ Alx Holberton's curriculum for high-level programming include the following proj
 * [0x02. Python - import & modules](https://github.com/Samuel-IG16/alx-higher_level_programming/tree/master/0x02-python-import_modules)
 * [0x03. Python - Data Structures: Lists, Tuples]()
 ### Author
-Igbinijesu Samuel - Samuel-IG16
+Igbinijesu Samuel - [Samuel-IG16](https://github.com/Samuel-IG16)
