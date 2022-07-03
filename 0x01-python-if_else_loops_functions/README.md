@@ -6,37 +6,37 @@ Why Python programming is awesome, Why indentation is so important in Python, Ho
 
 <hr>
 
-* Write a Shell script that runs a Python script:
+* This program will assign a random signed number to the variable `number` each time it is executed. Complete the source code in order to print whether the number stored in the variable `number` is positive or negative:
     * **[0-positive_or_negative.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/0-positive_or_negative.py)**
-* Write a Shell script that runs Python code:
+* This program will assign a random signed number to the variable `number` each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable `number`:
     * **[1-last_digit.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/1-last_digit.py)**
-* Write a Python script that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line:
-    * **[2-print_alphabet.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/2-print.py)**
-* Complete this source code in order to print the integer stored in the variable `number`, followed by `Battery street`, followed by a new line:
-    * **[3-print_alphabt.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/3-print_number.py)**
-* Complete the source code in order to print the float stored in the variable `number` with a precision of 2 digits:
-    * **[4-print_hexa.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py)**
-* Complete this source code in order to print 3 times a string stored in the variable `str`, followed by its first 9 characters:
-    * **[5-print_comb2.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/5-print_string.py)**
-* Complete this source code to print `Welcome to Holberton School!`:
-    * **[6-print_comb3.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/6-concat.py)**
-* Complete this source code:
-    * **[7-islower.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/7-edges.py)**
-* Complete this source code to print `object-oriented programming with Python`, followed by a new line:
-    * **[8-uppercase.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/8-concat_edges.py)**
-* Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line:
-    * **[9-print_last_digit.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/9-easter_egg.py)**
-* Write a function in C that checks if a singly linked list has a cycle in it:
-    * **[10-add.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/10-check_cycle.c)**
-* Write a Python script that prints exactly `and that piece of art is useful - Dora Korpar, 2015-10-19`, followed by a new line:
-    * **[11-pow.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/100-write.py)**
-* Write a script that compiles a Python script file:
-    * **[12-fizzbuzz.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/101-compile)**
-* Write the Python function `def magic_calculation(a, b):` that does exactly the same as the following Python bytecode:
-    * **[13-insert_number.c](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/102-magic_calculation.py)**
-* Write the Python function `def magic_calculation(a, b):` that does exactly the same as the following Python bytecode:
-    * **[100-print_tebahpla.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/102-magic_calculation.py)**
-* Write the Python function `def magic_calculation(a, b):` that does exactly the same as the following Python bytecode:
-    * **[101-remove_char_at.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/102-magic_calculation.py)**
-* Write the Python function `def magic_calculation(a, b):` that does exactly the same as the following Python bytecode:
-    * **[102-magic_calculation.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/102-magic_calculation.py)**
+* Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line:
+    * **[2-print_alphabet.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/2-print_alphabet.py)**
+* Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line:
+    * **[3-print_alphabt.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/3-print_alphabt.py)**
+* Write a program that prints all numbers from `0` to `98` in decimal and in hexadecimal (as in the following example):
+    * **[4-print_hexa.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/4-print_hexa.py)**
+* Write a program that prints numbers from `0` to `99`:
+    * **[5-print_comb2.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/5-print_comb2.py)**
+* Write a program that prints all possible different combinations of two digits:
+    * **[6-print_comb3.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/6-print_comb3.py)**
+* Write a function that checks for lowercase character:
+    * **[7-islower.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/7-islower.py)**
+* Write a function that prints a string in uppercase followed by a new line:
+    * **[8-uppercase.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/8-uppercase.py)**
+* Write a function that prints the last digit of a number:
+    * **[9-print_last_digit.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/9-print_last_digit.py)**
+* Write a function that adds two integers and returns the result:
+    * **[10-add.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/10-add.py)**
+* Write a function that computes `a` to the power of `b` and return the value:
+    * **[11-pow.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/11-pow.py)**
+* Write a function that prints the numbers from 1 to 100 separated by a space:
+    * **[12-fizzbuzz.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/12-fizzbuzz.py)**
+* Write a function in C that inserts a number into a sorted singly linked list:
+    * **[13-insert_number.c](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/13-insert_number.c)**
+* Write a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (`z` in lowercase and `Y` in uppercase) , not followed by a new line:
+    * **[100-print_tebahpla.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/100-print_tebahpla.py)**
+* Write a function that creates a copy of the string, removing the character at the position n (not the Python way, the “C array index”):
+    * **[101-remove_char_at.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/101-remove_char_at.py)**
+* Write the Python function `def magic_calculation(a, b, c):` that does exactly the same as the following Python bytecode:
+    * **[102-magic_calculation.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/102-magic_calculation.py)**
