@@ -33,4 +33,4 @@ Why Python programming is awesome, Who created Python, Who is Guido van Rossum, 
 * Write a script that compiles a Python script file:
     * **[101-compile](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/101-compile)**
 * Write the Python function `def magic_calculation(a, b):` that does exactly the same as the following Python bytecode:
-    * **[102-magic_calculation.py]https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/102-magic_calculation.py)**
+    * **[102-magic_calculation.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/102-magic_calculation.py)**
