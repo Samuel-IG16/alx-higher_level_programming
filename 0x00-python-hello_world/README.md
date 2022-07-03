@@ -29,8 +29,8 @@ Why Python programming is awesome, Who created Python, Who is Guido van Rossum, 
 * Write a function in C that checks if a singly linked list has a cycle in it:
     * **[10-check_cycle.c](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/10-check_cycle.c)**
 * Write a Python script that prints exactly `and that piece of art is useful - Dora Korpar, 2015-10-19`, followed by a new line:
-    * **[100-write.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py)**
+    * **[100-write.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/100-write.py)**
 * Write a script that compiles a Python script file:
-    * **[101-compile](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py)**
+    * **[101-compile](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/101-compile)**
 * Write the Python function `def magic_calculation(a, b):` that does exactly the same as the following Python bytecode:
-    * **[102-magic_calculation.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py)**
+    * **[102-magic_calculation.py]https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/102-magic_calculation.py)**
