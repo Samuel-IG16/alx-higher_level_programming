@@ -28,15 +28,9 @@ Why Python programming is awesome, What are lists and how to use them, What are 
     * **[9-max_integer.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x03-python-data_structures/9-max_integer.py)**
 * Write a function that finds all multiples of 2 in a list:
     * **[10-divisible_by_2.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x03-python-data_structures/10-divisible_by_2.py)**
-* Write a function that computes `a` to the power of `b` and return the value:
-    * **[11-pow.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/11-pow.py)**
-* Write a function that prints the numbers from 1 to 100 separated by a space:
-    * **[12-fizzbuzz.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/12-fizzbuzz.py)**
+* Write a function that deletes the item at a specific position in a list:
+    * **[11-delete_at.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x03-python-data_structures/11-delete_at.py)**
+* Complete the source code in order to switch value of `a` and `b`:
+    * **[12-switch.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x03-python-data_structures/12-switch.py)**
 * Write a function in C that inserts a number into a sorted singly linked list:
-    * **[13-insert_number.c](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/13-insert_number.c)**
-* Write a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (`z` in lowercase and `Y` in uppercase) , not followed by a new line:
-    * **[100-print_tebahpla.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/100-print_tebahpla.py)**
-* Write a function that creates a copy of the string, removing the character at the position n (not the Python way, the “C array index”):
-    * **[101-remove_char_at.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/101-remove_char_at.py)**
-* Write the Python function `def magic_calculation(a, b, c):` that does exactly the same as the following Python bytecode:
-    * **[102-magic_calculation.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/102-magic_calculation.py)**
+    * **[13-is_palindrome.c](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x03-python-data_structures/13-is_palindrome.c)**
