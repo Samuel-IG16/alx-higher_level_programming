@@ -32,5 +32,7 @@ Why Python programming is awesome, What are lists and how to use them, What are 
     * **[11-delete_at.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x03-python-data_structures/11-delete_at.py)**
 * Complete the source code in order to switch value of `a` and `b`:
     * **[12-switch.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x03-python-data_structures/12-switch.py)**
-* Write a function in C that inserts a number into a sorted singly linked list:
+* Write a function in C that checks if a singly linked list is a palindrome:
     * **[13-is_palindrome.c](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x03-python-data_structures/13-is_palindrome.c)**
+* Create a C function that prints some basic info about Python lists:
+    * **[100-print_python_list_info.c](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x03-python-data_structures/100-print_python_list_info.c)**
