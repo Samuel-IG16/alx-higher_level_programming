@@ -1,4 +1,4 @@
-# 0x00. Python - Hello, World
+# 0x06. Python - Classes and Objects
 ## Description
 What you should learn from this project:
 
