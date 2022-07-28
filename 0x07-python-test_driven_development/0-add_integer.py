@@ -7,7 +7,7 @@ def add_integer(a, b=98):
 
     Args:
         a: first int.
-	b: second int, default value is 98.
+        b: second int, default value is 98.
 
     Raises:
         TypeError: if a, b are neither int nor float.
@@ -15,7 +15,6 @@ def add_integer(a, b=98):
     Returns:
         sum of a and b.
     """
-
 
     if type(a) not in (int, float):
         raise TypeError("a must be an integer")
