@@ -9,6 +9,11 @@ First import ``add_integer`` from the ``0-add_integer`` module:
 
     >>> add_integer = __import__('0-add_integer').add_integer
 
+Basic usage:
+
+    >>> add_integer(1, 2)
+    3
+    
 Test int argument:
 
     >>> add_integer(2)
@@ -19,4 +24,45 @@ Test int argument and check default second:
     >>> add_integer(0)
     98
 
-Test
+Float and negative input:
+
+    >>> add_integer(100.3, -2)
+    98
+
+Float overflow:
+
+    >>> add_integer(1500.5)
+    1598
+
+Float NaN:
+
+    >>> add_integer(float('NaN'))
+    Traceback (most recent call last):
+    ...
+    ValueError: cannot convert float NaN to integer
+
+String input:
+
+    >>> add_integer(4, "School")
+    Traceback (most recent call last):
+    ...
+    TypeError: b must be an integer
+
+None input:
+
+    >>> add_integer(None)
+    Traceback (most recent call last):
+    ...
+    TypeError: a must be an integer
+
+Double negative float input:
+
+    >>> add_integer(-100.5, -10.8)
+    -110
+
+Double string input:
+
+    >>> add_integer("holberton", "school")
+    Traceback (most recent call last):
+    ...
+    TypeError: a must be an integer
