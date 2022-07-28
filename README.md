@@ -12,5 +12,7 @@ Alx Holberton's curriculum for high-level programming include the following proj
    * [0x06. Python - Classes and Objects](https://github.com/Samuel-IG16/alx-higher_level_programming/tree/master/0x06-python-classes#readme)
    * [0x07. Python - Test-driven development](https://github.com/Samuel-IG16/alx-higher_level_programming/tree/master/0x07-python-test_driven_development#readme)
    * [0x08. Python - More Classes and Objects](https://github.com/Samuel-IG16/alx-higher_level_programming/tree/master/0x08-python-more_classes#readme)
+   * [0x09. Python - Everything is object](https://github.com/Samuel-IG16/alx-higher_level_programming/tree/master/0x09-python-everything_is_object#readme)
+   * [0x1A. C - Hash tables](https://github.com/Samuel-IG16/alx-higher_level_programming/tree/master/0x1A-hash_tables#readme)
 ### Author
 Igbinijesu Samuel - [Samuel-IG16](https://github.com/Samuel-IG16)
