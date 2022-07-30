@@ -1,27 +1,25 @@
 # Alx High Level Programming
 ## Description
 Alx Holberton's curriculum for high-level programming include the following projects that are meant to help us learn how to use and apply the basic fundamental concepts from [low-level programming in C](https://github.com/Samuel-IG16/alx-low_level_programming) on a different programming language - Python.
-## Requirements
   #### Python Scripts:
-   * The first line of all your files should be exactly `#!/usr/bin/python3`
-   * Your code should use the [pycodestyle](https://pypi.org/project/pycodestyle/) (version 2.8.*) 
-   * All your files should end with a new line
-   * All your files must be executable
-   * All your files will be interpreted/compiled on using python3 (version 3.8.5)
+   * The first line of all files is exactly `#!/usr/bin/python3`
+   * The code uses the [pycodestyle](https://pypi.org/project/pycodestyle/) (version 2.8.*) 
+   * All the files end with a new line
+   * All the files are executable
+   * All the files can be interpreted/compiled on using python3 (version 3.8.5)
   #### Shell Scripts:
-   * The first line of all your files should be exactly `#!/bin/bash`
-   * All your files should end with a new line
-   * All your scripts should be exactly two lines long (`wc -l file` should print 2)
-   * All your files must be executable
+   * The first line of all files is exactly `#!/bin/bash`
+   * All the files end with a new line
+   * All the scripts are exactly two lines long (`wc -l file` should print 2)
+   * All the files are executable
   #### C Scripts:
-   * You are not allowed to use global variables
+   * No global variables were used
    * No more than 5 functions per file
-   * Your code should use the [Betty](https://github.com/holbertonschool/Betty/wiki) style.
-   * All your files should end with a new line
-   * The prototypes of all your functions should be included in your header file called `lists.h`
-   * All your header files should be include guarded
+   * The code uses the [Betty](https://github.com/holbertonschool/Betty/wiki) style.
+   * All the files end with a new line
+   * The prototypes of all functions are included in the header file called `lists.h`
+   * All the header files are include guarded
 ### Table of contents
-* [Requirements](#requirements)
   #### Python:
    * [0x00. Python - Hello, World](https://github.com/Samuel-IG16/alx-higher_level_programming/tree/master/0x00-python-hello_world#readme)
    * [0x01. Python - if/else, loops, functions](https://github.com/Samuel-IG16/alx-higher_level_programming/tree/master/0x01-python-if_else_loops_functions#readme)
