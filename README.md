@@ -17,7 +17,7 @@ Alx Holberton's curriculum for high-level programming include the following proj
   #### C Scripts:
    * You are not allowed to use global variables
    * No more than 5 functions per file
-   * Your code should use the `Betty` style. It will be checked using betty-style.pl and betty-doc.pl
+   * Your code should use the [Betty](https://github.com/Samuel-IG16/alx-low_level_programming#readme) style.
    * All your files should end with a new line
    * The prototypes of all your functions should be included in your header file called `lists.h`
    * All your header files should be include guarded
