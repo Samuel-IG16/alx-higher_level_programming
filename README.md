@@ -8,7 +8,6 @@ Alx Holberton's curriculum for high-level programming include the following proj
    * All your files should end with a new line
    * All your files must be executable
    * All your files will be interpreted/compiled on using python3 (version 3.8.5)
-   * The `main.py` files are shown as examples. You can use them to test your functions
   #### Shell Scripts:
    * The first line of all your files should be exactly `#!/bin/bash`
    * All your files should end with a new line
