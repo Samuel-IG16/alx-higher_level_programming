@@ -1,36 +1,30 @@
 # 0x08. Python - More Classes and Objects
 ## Description
-What you should learn from this project:
+This project consists of tasks that acheive the following learning goals:
 
-Why Python programming is awesome, What is OOP, “first-class everything”, What is a class, What is an object and an instance, What is the difference between a class and an object or instance, What is an attribute, What are and how to use public, protected and private attributes, What is `self`, What is a method, What is the special `__init__` method and how to use it, What is Data Abstraction, Data Encapsulation, and Information Hiding, What is a property, What is the difference between an attribute and a property in Python, What is the Pythonic way to write getters and setters in Python, What are the special `__str__` and `__repr__` methods and how to use them, What is the difference between `__str__` and `__repr__`, What is a class attribute, What is the difference between a object attribute and a class attribute, What is a class method, What is a static method, How to dynamically create arbitrary new attributes for existing instances of a class, How to bind attributes to object and classes, What is the `__dict__` of a class and/or instance of a class and what does it contain, How does Python find the attributes of an object or class, How to use the `getattr` function.
-
-<hr>
-
-* Write a Shell script that runs a Python script:
-    * **[0-run](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/0-run)**
-* Write a Shell script that runs Python code:
-    * **[1-run_inline](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/1-run_inline)**
-* Write a Python script that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line:
-    * **[2-print.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/2-print.py)**
-* Complete this source code in order to print the integer stored in the variable `number`, followed by `Battery street`, followed by a new line:
-    * **[3-print_number.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/3-print_number.py)**
-* Complete the source code in order to print the float stored in the variable `number` with a precision of 2 digits:
-    * **[4-print_float.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py)**
-* Complete this source code in order to print 3 times a string stored in the variable `str`, followed by its first 9 characters:
-    * **[5-print_string.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/5-print_string.py)**
-* Complete this source code to print `Welcome to Holberton School!`:
-    * **[6-concat.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/6-concat.py)**
-* Complete this source code:
-    * **[7-edges.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/7-edges.py)**
-* Complete this source code to print `object-oriented programming with Python`, followed by a new line:
-    * **[8-concat_edges.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/8-concat_edges.py)**
-* Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line:
-    * **[9-easter_egg.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/9-easter_egg.py)**
-* Write a function in C that checks if a singly linked list has a cycle in it:
-    * **[10-check_cycle.c](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/10-check_cycle.c)**
-* Write a Python script that prints exactly `and that piece of art is useful - Dora Korpar, 2015-10-19`, followed by a new line:
-    * **[100-write.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/100-write.py)**
-* Write a script that compiles a Python script file:
-    * **[101-compile](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/101-compile)**
-* Write the Python function `def magic_calculation(a, b):` that does exactly the same as the following Python bytecode:
-    * **[102-magic_calculation.py](https://github.com/Samuel-IG16/alx-higher_level_programming/blob/master/0x00-python-hello_world/102-magic_calculation.py)**
+* Why Python programming is awesome
+* What is OOP
+* “first-class everything”
+* What is a class
+* What is an object and an instance
+* What is the difference between a class and an object or instance
+* What is an attribute
+* What are and how to use public, protected and private attributes
+* What is `self`
+* What is a method
+* What is the special `__init__` method and how to use it
+* What is Data Abstraction, Data Encapsulation, and Information Hiding
+* What is a property
+* What is the difference between an attribute and a property in Python
+* What is the Pythonic way to write getters and setters in Python
+* What are the special `__str__` and `__repr__` methods and how to use them
+* What is the difference between `__str__` and `__repr__`
+* What is a class attribute
+* What is the difference between a object attribute and a class attribute
+* What is a class method
+* What is a static method
+* How to dynamically create arbitrary new attributes for existing instances of a class
+* How to bind attributes to object and classes
+* What is the `__dict__` of a class and/or instance of a class and what does it contain
+* How does Python find the attributes of an object or class
+* How to use the `getattr` function.
