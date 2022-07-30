@@ -22,6 +22,7 @@ Alx Holberton's curriculum for high-level programming include the following proj
    * The prototypes of all your functions should be included in your header file called `lists.h`
    * All your header files should be include guarded
 ### Table of contents
+* [Requirements](#requirements)
   #### Python:
    * [0x00. Python - Hello, World](https://github.com/Samuel-IG16/alx-higher_level_programming/tree/master/0x00-python-hello_world#readme)
    * [0x01. Python - if/else, loops, functions](https://github.com/Samuel-IG16/alx-higher_level_programming/tree/master/0x01-python-if_else_loops_functions#readme)
