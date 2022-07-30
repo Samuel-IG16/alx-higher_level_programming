@@ -1,6 +1,6 @@
 # 0x00. Python - Hello, World
 ## Description
-This project highlights the following learning goals:
+This project consists of tasks that acheive the following learning goals:
 
 * Why Python programming is awesome
 * Who created Python 
