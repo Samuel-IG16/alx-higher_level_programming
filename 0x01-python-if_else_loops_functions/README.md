@@ -18,3 +18,9 @@ This project repository contains tasks that acheive the following learning objec
 * Scope of variables
 * What’s a traceback
 * What are the arithmetic operators and how to use them.
+
+### Featured source files
+* Python scripts
+* C scripts
+
+See file specifications [here](https://github.com/Samuel-IG16/alx-higher_level_programming#readme)
