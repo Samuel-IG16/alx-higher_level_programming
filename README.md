@@ -30,6 +30,10 @@ Alx Holberton's curriculum for high-level programming include the following proj
    * All modules are properly documented
    * All functions are properly documentated
    * All the files end with a new line
+  #### .txt Answer Files:
+   * Only one line
+   * No Shebang
+   * All the files end with a new line
 ### Table of contents
   #### Python:
    * [0x00. Python - Hello, World](https://github.com/Samuel-IG16/alx-higher_level_programming/tree/master/0x00-python-hello_world#readme)
