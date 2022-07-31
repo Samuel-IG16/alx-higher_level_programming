@@ -14,6 +14,6 @@ This project consists of tasks that acheive the following learning objectives:
 * What is the official Python coding style and how to check your code with `pycodestyle`.
 
 ### Features
-* [Shell scripts](..#shellscripts)
-* [Python scripts](..#pythonscripts)
-* [C scripts](..#cscripts)
+* [Shell scripts](https://github.com/Samuel-IG16/alx-higher_level_programming#shellscripts)
+* [Python scripts](https://github.com/Samuel-IG16/alx-higher_level_programming#pythonscripts)
+* [C scripts](https://github.com/Samuel-IG16/alx-higher_level_programming#cscripts)
