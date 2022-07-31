@@ -4,7 +4,10 @@ Alx Holberton's curriculum for high-level programming include the following proj
 ## Specifications
   #### <a name="python"></a>Python Scripts:
    * The first line of all files is exactly `#!/usr/bin/python3`
-   * The code uses the [pycodestyle](https://pypi.org/project/pycodestyle/) (version 2.8.*) 
+   * The code uses the [pycodestyle](https://pypi.org/project/pycodestyle/) (version 2.8.*)
+   * All modules are properly documented
+   * All classes are properly documented
+   * All functions are properly documentated
    * All the files end with a new line
    * All the files are/should be executable
    * All the files can be interpreted/compiled on using python3 (version 3.8.5)
