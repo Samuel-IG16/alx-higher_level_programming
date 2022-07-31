@@ -1,6 +1,6 @@
 # 0x06. Python - Classes and Objects
 ## Description
-This project consists of tasks that acheive the following learning objectives:
+This project repository contains tasks that acheive the following learning objectives:
 
 * Why Python programming is awesome
 * What is OOP
@@ -22,3 +22,8 @@ This project consists of tasks that acheive the following learning objectives:
 * What is the `__dict__` of a class and/or instance of a class and what does it contain
 * How does Python find the attributes of an object or class
 * How to use the `getattr` function.
+
+### Featured source files
+* Python scripts
+
+See file specifications [here](https://github.com/Samuel-IG16/alx-higher_level_programming#readme)
