@@ -1,6 +1,6 @@
 # 0x09. Python - Everything is object
 ## Discription
-This project consists of tasks that acheive the following learning objectives:
+This project repository contains tasks that acheive the following learning objectives:
 
 * Why Python programming is awesome
 * What is an object
@@ -16,3 +16,9 @@ This project consists of tasks that acheive the following learning objectives:
 * What are the built-in mutable types
 * What are the built-in immutable types
 * How does Python pass variables to functions
+
+### Featured source files
+* .txt answer files
+* Python scripts
+
+See file specifications [here](https://github.com/Samuel-IG16/alx-higher_level_programming#readme)
