@@ -12,3 +12,8 @@ This project consists of tasks that acheive the following learning objectives:
 * How to use strings
 * What are indexing and slicing in Python
 * What is the official Python coding style and how to check your code with `pycodestyle`.
+
+### Features
+* [Shell scripts](#shellscripts)
+* [Python scripts](#pythonscripts)
+* [C scripts](#cscripts)
