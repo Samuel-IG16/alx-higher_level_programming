@@ -1,4 +1,4 @@
-# Alx High Level Programming
+# Alx High Level Programming :man_technologist:
 ## Description
 Alx Holberton's curriculum for high-level programming include the following projects that are meant to help us learn how to use and apply the basic fundamental concepts from [low-level programming in C](https://github.com/Samuel-IG16/alx-low_level_programming) on a different programming language - Python.
 ### Table of contents
