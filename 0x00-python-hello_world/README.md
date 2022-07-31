@@ -1,6 +1,6 @@
 # 0x00. Python - Hello, World
 ## Description
-This project consists of tasks that acheive the following learning objectives:
+This project repository contains tasks that acheive the following learning objectives:
 
 * Why Python programming is awesome
 * Who created Python 
@@ -13,7 +13,9 @@ This project consists of tasks that acheive the following learning objectives:
 * What are indexing and slicing in Python
 * What is the official Python coding style and how to check your code with `pycodestyle`.
 
-### Features
-* [Shell scripts](https://github.com/Samuel-IG16/alx-higher_level_programming#readme)
-* [Python scripts](https://github.com/Samuel-IG16/alx-higher_level_programming#readme)
-* [C scripts](https://github.com/Samuel-IG16/alx-higher_level_programming#readme)
+### Featured source files
+* Shell scripts
+* Python scripts
+* C scripts
+
+See file specifications [here](https://github.com/Samuel-IG16/alx-higher_level_programming#readme)
