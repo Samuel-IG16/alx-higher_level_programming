@@ -1,6 +1,6 @@
 # 0x02. Python - import & modules
 ## Description
-This project consists of tasks that acheive the following learning goals:
+This project consists of tasks that acheive the following learning objectives:
 
 * Why Python programming is awesome
 * How to import functions from another file
