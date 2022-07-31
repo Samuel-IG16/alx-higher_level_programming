@@ -1,6 +1,6 @@
 # 0x04. Python - More Data Structures: Set, Dictionary
 ## Description
-This project consists of tasks that acheive the following learning goals
+This project consists of tasks that acheive the following learning objectives:
 
 * Why Python programming is awesome
 * What are sets and how to use them
