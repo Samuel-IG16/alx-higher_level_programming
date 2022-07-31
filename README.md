@@ -1,6 +1,7 @@
 # Alx High Level Programming
 ## Description
 Alx Holberton's curriculum for high-level programming include the following projects that are meant to help us learn how to use and apply the basic fundamental concepts from [low-level programming in C](https://github.com/Samuel-IG16/alx-low_level_programming) on a different programming language - Python.
+## Specifications
   #### Python Scripts:
    * The first line of all files is exactly `#!/usr/bin/python3`
    * The code uses the [pycodestyle](https://pypi.org/project/pycodestyle/) (version 2.8.*) 
