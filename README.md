@@ -23,7 +23,7 @@ Alx Holberton's curriculum for high-level programming include the following proj
    * All the files end with a new line
    * The prototypes of all functions are included in the header file called `lists.h`
    * All the header files are include guarded
-  #### C Scripts:
+  #### Python Test Cases:
    * All test files are inside a tests folder
    * All test files are text files (extension: .txt)
    * All tests are executable using this command: `python3 -m doctest ./tests/*`
