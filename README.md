@@ -2,18 +2,18 @@
 ## Description
 Alx Holberton's curriculum for high-level programming include the following projects that are meant to help us learn how to use and apply the basic fundamental concepts from [low-level programming in C](https://github.com/Samuel-IG16/alx-low_level_programming) on a different programming language - Python.
 ## Specifications
-  #### Python Scripts:
+  #### <a name="pythonscripts"></a>Python Scripts:
    * The first line of all files is exactly `#!/usr/bin/python3`
    * The code uses the [pycodestyle](https://pypi.org/project/pycodestyle/) (version 2.8.*) 
    * All the files end with a new line
    * All the files are/should be executable
    * All the files can be interpreted/compiled on using python3 (version 3.8.5)
-  #### Shell Scripts:
+  #### <a name="shellscripts"></a>Shell Scripts:
    * The first line of all files is exactly `#!/bin/bash`
    * All the files end with a new line
    * All the scripts are exactly two lines long (`wc -l file` should print 2)
    * All the files are/should be executable
-  #### C Scripts:
+  #### <a name="cscripts"></a>C Scripts:
    * No global variables were used
    * No more than 5 functions per file
    * The code uses the [Betty](https://github.com/holbertonschool/Betty/wiki) style.
