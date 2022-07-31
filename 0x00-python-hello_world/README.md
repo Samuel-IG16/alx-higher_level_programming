@@ -15,5 +15,5 @@ This project consists of tasks that acheive the following learning objectives:
 
 ### Features
 * [Shell scripts](#shell)
-* [Python scripts](#python)
+* [Python scripts](#python-scripts)
 * [C scripts](#c)
