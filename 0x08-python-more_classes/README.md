@@ -1,6 +1,6 @@
 # 0x08. Python - More Classes and Objects
 ## Description
-This project consists of tasks that acheive the following learning goals:
+This project consists of tasks that acheive the following learning objectives:
 
 * Why Python programming is awesome
 * What is OOP
