@@ -1,6 +1,6 @@
 # 0x07. Python - Test-driven development
 ## Description
-This project consists of tasks that acheive the following learning goals:
+This project consists of tasks that acheive the following learning objectives:
 
 * Why Python programming is awesome
 * What’s an interactive test
