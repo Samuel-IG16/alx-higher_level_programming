@@ -1,6 +1,6 @@
 # 0x04. Python - More Data Structures: Set, Dictionary
 ## Description
-This project consists of tasks that acheive the following learning objectives:
+This project repository contains tasks that acheive the following learning objectives:
 
 * Why Python programming is awesome
 * What are sets and how to use them
@@ -13,3 +13,8 @@ This project consists of tasks that acheive the following learning objectives:
 * How to iterate over a dictionary
 * What is a lambda function
 * What are the map, reduce and filter functions.
+
+### Featured source files
+* Python scripts
+
+See file specifications [here](https://github.com/Samuel-IG16/alx-higher_level_programming#readme)
