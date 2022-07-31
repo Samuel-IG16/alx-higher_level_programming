@@ -15,7 +15,7 @@ This project consists of tasks that acheive the following learning objectives:
 
 ### Features
 * [Shell scripts][1]
-* [Python scripts](https://github.com/Samuel-IG16/alx-higher_level_programming/#readme#python)
+* [Python scripts](/#python-scripts)
 * [C scripts](#c)
 
 [1]: https://github.com/Samuel-IG16/alx-higher_level_programming#readme "Shell scripts specifications"
