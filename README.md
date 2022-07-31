@@ -2,7 +2,7 @@
 ## Description
 Alx Holberton's curriculum for high-level programming include the following projects that are meant to help us learn how to use and apply the basic fundamental concepts from [low-level programming in C](https://github.com/Samuel-IG16/alx-low_level_programming) on a different programming language - Python.
 ## Specifications
-  #### <a name="python"></a>Python Scripts:
+  #### Python Scripts:
    * The first line of all files is exactly `#!/usr/bin/python3`
    * The code uses the [pycodestyle](https://pypi.org/project/pycodestyle/) (version 2.8.*)
    * All modules are properly documented
@@ -11,18 +11,25 @@ Alx Holberton's curriculum for high-level programming include the following proj
    * All the files end with a new line
    * All the files are/should be executable
    * All the files can be interpreted/compiled on using python3 (version 3.8.5)
-  #### <a name="shell"></a>Shell Scripts:
+  #### Shell Scripts:
    * The first line of all files is exactly `#!/bin/bash`
    * All the files end with a new line
    * All the scripts are exactly two lines long (`wc -l file` should print 2)
    * All the files are/should be executable
-  #### <a name="c"></a>C Scripts:
+  #### C Scripts:
    * No global variables were used
    * No more than 5 functions per file
    * The code uses the [Betty](https://github.com/holbertonschool/Betty/wiki) style.
    * All the files end with a new line
    * The prototypes of all functions are included in the header file called `lists.h`
    * All the header files are include guarded
+  #### C Scripts:
+   * All test files are inside a tests folder
+   * All test files are text files (extension: .txt)
+   * All tests are executable using this command: `python3 -m doctest ./tests/*`
+   * All modules are properly documented
+   * All functions are properly documentated
+   * All the files end with a new line
 ### Table of contents
   #### Python:
    * [0x00. Python - Hello, World](https://github.com/Samuel-IG16/alx-higher_level_programming/tree/master/0x00-python-hello_world#readme)
