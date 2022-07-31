@@ -1,6 +1,6 @@
 # 0x05. Python - Exceptions
 ## Description
-This project consists of tasks that acheive the following learning objectives:
+This project repository contains tasks that acheive the following learning objectives:
 
 * Why Python programming is awesome
 * What’s the difference between errors and exceptions
@@ -10,3 +10,8 @@ This project consists of tasks that acheive the following learning objectives:
 * What’s the purpose of catching exceptions
 * How to raise a builtin exception
 * When do we need to implement a clean-up action after an exception.
+
+### Featured source files
+* Python scripts
+
+See file specifications [here](https://github.com/Samuel-IG16/alx-higher_level_programming#readme)
