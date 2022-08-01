@@ -1,6 +1,6 @@
 # 0x03. Python - Data Structures: Lists, Tuples
 ## Description
-This project repository contains tasks that acheive the following learning objectives:
+This project directory contains tasks that acheive the following learning objectives:
 
 * Why Python programming is awesome
 * What are lists and how to use them
