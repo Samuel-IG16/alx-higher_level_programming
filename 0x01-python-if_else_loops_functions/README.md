@@ -1,6 +1,6 @@
 # 0x01. Python - if/else, loops, functions
 ## Description
-This project repository contains tasks that acheive the following learning objectives:
+This project directory contains tasks that acheive the following learning objectives:
 
 * Why Python programming is awesome
 * Why indentation is so important in Python
