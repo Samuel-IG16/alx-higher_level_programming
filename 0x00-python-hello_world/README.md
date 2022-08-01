@@ -1,6 +1,6 @@
 # 0x00. Python - Hello, World
 ## Description
-This project repository contains tasks that acheive the following learning objectives:
+This project directory contains tasks that acheive the following learning objectives:
 
 * Why Python programming is awesome
 * Who created Python 
