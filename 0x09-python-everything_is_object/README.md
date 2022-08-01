@@ -1,6 +1,6 @@
 # 0x09. Python - Everything is object
 ## Discription
-This project repository contains tasks that acheive the following learning objectives:
+This project directory contains tasks that acheive the following learning objectives:
 
 * Why Python programming is awesome
 * What is an object
