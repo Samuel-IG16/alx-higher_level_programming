@@ -1,6 +1,6 @@
 # 0x0A. Python - Inheritance
 ## Discription
-This project repository contains tasks that acheive the following learning objectives:
+This project directory contains tasks that acheive the following learning objectives:
 
 * Why Python programming is awesome
 * What is a superclass, baseclass or parentclass
