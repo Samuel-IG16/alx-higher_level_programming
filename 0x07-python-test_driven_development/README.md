@@ -1,6 +1,6 @@
 # 0x07. Python - Test-driven development
 ## Description
-This project repository contains tasks that acheive the following learning objectives:
+This project directory contains tasks that acheive the following learning objectives:
 
 * Why Python programming is awesome
 * What’s an interactive test
