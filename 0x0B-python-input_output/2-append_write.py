@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module 4-append_write.
+"""Module 2-append_write.
 Appends a string at the end of a text file.
 """
 
