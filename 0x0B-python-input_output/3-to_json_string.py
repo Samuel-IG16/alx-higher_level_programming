@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module 5-to_json_string.
+"""Module 3-to_json_string.
 Returns the JSON representation of an object.
 """
 
