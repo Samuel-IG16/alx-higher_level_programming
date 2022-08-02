@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module 3-write_file.
+"""Module 1-write_file.
 Writes in a text file.
 """
 
