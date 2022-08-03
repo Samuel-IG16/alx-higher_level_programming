@@ -8,7 +8,6 @@ after each line containing a specific string.
 def append_after(filename="", search_string="", new_string=""):
     """Appends the new_string after
     the search_string in filename.
-
     Args:
         - filename: name of the file
         - search_string: string to append after
