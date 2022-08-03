@@ -26,4 +26,4 @@ class Student:
         Returns: the dict representation of the instance.
         """
 
-        return self.
+        return self.__dict__
