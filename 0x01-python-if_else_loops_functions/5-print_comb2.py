@@ -1,4 +1,18 @@
 #!/usr/bin/python3
-for i in range(0, 99):
-    print("{:02d},".format(i), end=' ')
-print("{:02d}".format(99))
+# -----------------------------------------------------------
+# Python program that:
+# demonstrates how to print numbers from 0 to 99
+# demonstrates how to use a loop and string formatting to affect program output
+#
+# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
+# email igbinijesusamuel@gmail.com
+# -----------------------------------------------------------
+
+# For each number in range sequence
+for number in range(0, 99):
+
+  # Print out number according to fill and width format
+  print(f"{number:02}", end=', ')
+  
+# Print out last number
+print(99)
