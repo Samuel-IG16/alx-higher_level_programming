@@ -11,8 +11,8 @@
 # For each number in range sequence
 for number in range(0, 99):
 
-  # Print out number according to fill and width format
-  print(f"{number:02}", end=', ')
-  
+    # Print out number according to fill and width format
+    print(f"{number:02}", end=", ")
+
 # Print out last number
 print(99)
