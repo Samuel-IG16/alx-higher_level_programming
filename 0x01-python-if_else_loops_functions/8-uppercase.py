@@ -8,6 +8,7 @@
 # email igbinijesusamuel@gmail.com
 # -----------------------------------------------------------
 
+
 def uppercase(str):
     """Prints uppercase string
 
@@ -18,15 +19,15 @@ def uppercase(str):
     # For each letter in str
     for letter in str:
 
-      # Get the letter ascii code
-      ascii_letter_code = ord(letter)
+        # Get the letter ascii code
+        ascii_letter_code = ord(letter)
 
-      # If the letter is in the lowercase range
-      if ascii_letter_code in range(97, 123):
+        # If the letter is in the lowercase range
+        if ascii_letter_code in range(97, 123):
 
-        # Set it to the uppercase value
-        ascii_letter_code = ascii_letter_code - 32
+            # Set it to the uppercase value
+            ascii_letter_code = ascii_letter_code - 32
 
-      # Print out the uppercase value as character
-      print(f"{ascii_letter_code:c}", end='')
+        # Print out the uppercase value as character
+        print(f"{ascii_letter_code:c}", end="")
     print()
