@@ -8,12 +8,13 @@
 # email igbinijesusamuel@gmail.com
 # -----------------------------------------------------------
 
+
 def print_last_digit(number):
     """Prints last digit of number
 
     Args:
         number: a number
-    
+
     Returns:
         last_digit: the value of the last digit
     """
