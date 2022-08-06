@@ -23,5 +23,5 @@ def print_last_digit(number):
     last_digit = int(repr(number)[-1])
 
     # Print out and return the value of last_digit
-    print(f"{last_digit}", end="")
+    print("{}".format(last_digit), end="")
     return last_digit
