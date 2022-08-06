@@ -29,5 +29,5 @@ def uppercase(str):
             ascii_letter_code = ascii_letter_code - 32
 
         # Print out the uppercase value as character
-        print(f"{ascii_letter_code:c}", end="")
+        print("{:c}".format(ascii_letter_code), end="")
     print()
