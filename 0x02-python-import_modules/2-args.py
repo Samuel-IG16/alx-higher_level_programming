@@ -18,14 +18,14 @@ argv_length = len(argv) - 1
 if __name__ == "__main__":
     # Print out different statements based on length
     if argv_length > 1:
-        print(f"{argv_length} arguments:")
+        print("{:d} arguments:".format(argv_length))
     elif argv_length == 0:
-        print(f"{argv_length} arguments.")
+        print("{:d} arguments.".format(argv_length))
     else:
-        print(f"{argv_length} argument:")
+        print("{:d} argument:".format(argv_length))
 
     # Loop through and print out item and it's index
     for arg_item in argv:
         if argv.index(arg_item) == 0:
             continue
-        print(f"{argv.index(arg_item)}: {arg_item}")
+        print("{:d}: {}".format(argv.index(arg_item), arg_item))
