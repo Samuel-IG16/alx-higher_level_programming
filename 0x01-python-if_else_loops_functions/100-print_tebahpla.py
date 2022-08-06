@@ -25,4 +25,4 @@ for ascii_code in range(122, 96, -1):
         ascii_code = ascii_code - 32
 
     # Print out letters
-    print(f"{ascii_code:c}", end="")
+    print("{:c}".format(ascii_code), end="")
