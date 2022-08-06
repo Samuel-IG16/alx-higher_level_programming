@@ -17,4 +17,4 @@ for ascii_code in range(97, 123):
         continue
 
     # Print out the character format of the ascii_code
-    print(f"{chr(ascii_code)}", end='')
+    print("{:c}".format(ascii_code), end='')
