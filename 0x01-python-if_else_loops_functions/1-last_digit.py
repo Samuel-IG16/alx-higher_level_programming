@@ -18,14 +18,13 @@ last_digit = int(repr(number)[-1])
 # Print out number and it's last digit followed by ...
 # ..." and is greater than 5", if the last digit is greater than 5
 if last_digit > 5:
-    print(f"Last digit of {number} is {last_digit} and is greater than 5")
+    print("Last digit of {} is {} and is greater than 5".format(number, last_digit))
 
 # ..." and is less than 6 and not 0", if the last digit is less than 6
 # and not 0
 elif last_digit < 6 and last_digit != 0:
-    print(
-        f"Last digit of {number} is {last_digit} and is less than 6 and not 0")
+    print("Last digit of {} is {} and is less than 6 and not 0". format(number, last_digit))
 
 # ..." and is 0", if the last digit is 0
 elif last_digit == 0:
-    print(f"Last digit of {number} is {last_digit} and is 0")
+    print("Last digit of {} is {} and is 0".format(number, last_digit))
