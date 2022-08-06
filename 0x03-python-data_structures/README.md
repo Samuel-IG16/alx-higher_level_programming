@@ -13,7 +13,7 @@ This project directory contains tasks that acheive the following learning object
 * What is a sequence
 * What is tuple packing
 * What is sequence unpacking
-* What is the `del` statement and how to use it.
+* What is the `del` statement and how to use it
 
 ### Featured source files
 * Python scripts
