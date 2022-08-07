@@ -1,9 +1,19 @@
 #!/usr/bin/python3
+# -----------------------------------------------------------
+# Python program that:
+# demonstrates how to replace all occurrences of an element by
+# another in a new list
+#
+# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
+# email igbinijesusamuel@gmail.com
+# -----------------------------------------------------------
+
+
 def search_replace(my_list, search, replace):
-    copy = []
-    for i in range(len(my_list)):
-        if my_list[i] == search:
-            copy.append(replace)
+    new_list = []
+    for item in my_list:
+        if item != search:
+            new_list.append(item)
         else:
-            copy.append(my_list[i])
-    return copy
+            new_list.append(replace)
+    return new_list
