@@ -52,6 +52,14 @@ Alx Holberton's curriculum for high-level programming include the following proj
    * Only one line
    * No Shebang
    * All the files end with a new line
+  #### Python Unit Tests:
+   * All test files are inside a tests folder
+   * Make use of the [unittest module](https://docs.python.org/3.4/library/unittest.html#module-unittest)
+   * All test files are python files (extension: .py)
+   * All test files and folders start with test_
+   * File organization in the tests folder is the same as your project: ex: for `models/base.py`, unit tests must be in: `tests/test_models/test_base.py`
+   * All tests are executable using this command: `python3 -m unittest discover tests`
+   * Test file by file by using this command: `python3 -m unittest tests/test_models/test_base.py`
 
 <div align="right"><b>The Zen of Python</b></div>
 
