@@ -9,6 +9,27 @@ This project directory contains tasks that acheive the following learning object
 * What is `**kwargs` and how to use it
 * How to handle named arguments in a function
 
+## Background Context
+This project also will help you be ready for The AirBnB project which is a big part of the Higher level curriculum.
+In this project, you will review everything about Python:
+
+* Import
+* Exceptions
+* Class
+* Private attribute
+* Getter/Setter
+* Class method
+* Static method
+* Inheritance
+* Unittest
+* Read/Write file
+
+You will also learn about:
+
+* args and kwargs
+* Serialization/Deserialization
+* JSON
+
 ### Featured source files
 * Python scripts
 * Python Unit Tests
