@@ -1,33 +1,17 @@
 # 0x0C. Python - Almost a circle
+## Discription
+This project directory contains tasks that acheive the following learning objectives:
 
-## Description
+* What is Unit testing and how to implement it in a large project
+* How to serialize and deserialize a Class
+* How to write and read a JSON file
+* What is `*args` and how to use it
+* What is `**kwargs` and how to use it
+* How to handle named arguments in a function
 
-In this project, we review everything about Python:
+### Featured source files
+* Python scripts
+* Python Unit Tests
 
-* Import
-* Exceptions
-* Class
-* Private attribute
-* Getter/Setter
-* Class method
-* Static method
-* Inheritance
-* Unittest
-* Read/Write file
+See file specifications [here](https://github.com/Samuel-IG16/alx-higher_level_programming#readme)
 
-We also learn about:
-
-* args and kwargs
-* Serialization/Deserialization
-* JSON
-
-## Table of Contents
-
-Files | Description
------ | -----------
-[tests/](./tests/) | Folder containing all the unittests for this project
-[models/](./models/) | Folder containing all the modules of this project
-[models/base.py](./models/base.py) | Class Base that will be the “base” of all other classes in this project
-[`models/__init__.py`](./`models/__init__.py`) | Empty file that makes the folder a Python module
-[models/rectangle.py](./models/rectangle.py) | Class Rectangle that inherits from Base
-[models/square.py](./models/square.py) | Class Square that inherits from Rectangle
