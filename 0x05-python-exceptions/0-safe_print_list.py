@@ -1,11 +1,22 @@
 #!/usr/bin/python3
+# -----------------------------------------------------------
+# Python program that:
+# demonstrates how to print x elements of a list.
+# demonstrates how to use a try ... except for exception handling
+#
+# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
+# email igbinijesusamuel@gmail.com
+# -----------------------------------------------------------
+
+
 def safe_print_list(my_list=[], x=0):
-    i = 0
-    for num in range(x):
+    num_of_elements = 0
+    for index in range(x):
         try:
-            print("{}".format(my_list[num]), end="")
-            i += 1
+            print(my_list[index], end="")
+            num_of_elements += 1
         except IndexError:
             break
+
     print()
-    return i
+    return num_of_elements
