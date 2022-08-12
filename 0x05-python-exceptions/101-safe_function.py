@@ -1,4 +1,14 @@
 #!/usr/bin/python3
+# -----------------------------------------------------------
+# Python program that:
+# demonstrates how to execute a function safely
+# demonstrates how to use a try ... except for exception handling
+#
+# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
+# email igbinijesusamuel@gmail.com
+# -----------------------------------------------------------
+
+
 def safe_function(fct, *args):
     import sys
     try:
