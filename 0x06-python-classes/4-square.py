@@ -51,7 +51,11 @@ class Square:
         Validates the assignment of the size private attribute.
 
         Arg:
-            value: the value to be set
+            value: the value to be set.
+        
+        Raises:
+            TypeError: if size is not an integer.
+            ValueError: If size < 0.
         """
         if not isinstance(value, int):
             raise TypeError("size must be an integer")
