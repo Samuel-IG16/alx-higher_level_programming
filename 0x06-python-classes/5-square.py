@@ -9,7 +9,7 @@ This module contains a class that defines a square.
 
 Usage Example:
 
-    Square = __import__('4-square').Square
+    Square = __import__('5-square').Square
 
     my_square = Square(3)
     print(type(my_square))
