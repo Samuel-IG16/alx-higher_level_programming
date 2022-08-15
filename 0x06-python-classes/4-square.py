@@ -49,6 +49,9 @@ class Square:
         """Sets the size private attribute value.
 
         Validates the assignment of the size private attribute.
+
+        Arg:
+            value: the value to be set
         """
         if not isinstance(value, int):
             raise TypeError("size must be an integer")
