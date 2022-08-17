@@ -1,43 +1,67 @@
 #!/usr/bin/python3
-"""Define a class Square."""
+# -----------------------------------------------------------
+# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
+# email igbinijesusamuel@gmail.com
+# -----------------------------------------------------------
+"""Square Class.
+
+This module contains a class that defines a square.
+
+Usage Example:
+
+    Square = __import__('102-square').Square
+
+    s_5 = Square(5)
+    s_6 = Square(6)
+    if s_5 < s_6:
+        print("Square 5 < Square 6")
+    if s_5 <= s_6:
+        print("Square 5 <= Square 6")
+"""
 
 
 class Square:
-    """Represent a square."""
+    """Defines the blueprint of a square.
+
+    Attribute:
+        size (int): An integer representing the object size.
+    """
 
     def __init__(self, size=0):
-        """Initialize a new Square.
-
-        Args:
-            size (int): The size of the new square.
-        """
-        if type(size) is not int:
-            raise TypeError("size must be an integer")
-        if size < 0:
-            raise ValueError("size must be >= 0")
+        """An object constructor method."""
         self.__size = size
-
-    def area(self):
-        """Calculate the are of a square"""
-        return self.__size ** 2
 
     @property
     def size(self):
-        """Retrieves the size property"""
+        """Gets the size private attribute value.
+
+        Returns:
+            The size private attribute
+        """
         return self.__size
 
     @size.setter
     def size(self, value):
-        """Sets the size property
+        """Sets the size private attribute value.
 
-        Args:
-            value (int): The size of the new square.
+        Validates the assignment of the size private attribute.
+
+        Arg:
+            value: the value to be set
         """
-        if type(value) is not int:
+        if not isinstance(value, int):
             raise TypeError("size must be an integer")
         if value < 0:
             raise ValueError("size must be >= 0")
         self.__size = value
+
+    def area(self):
+        """A public object method.
+
+        Returns:
+            The current square area
+        """
+        return self.__size**2
 
     def __eq__(self, o):
         """Defines the == comparison"""
