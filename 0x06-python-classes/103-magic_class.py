@@ -1,6 +1,19 @@
 #!/usr/bin/python3
-"""Define a MagicClass that does exactly as the bytecode provided."""
+# -----------------------------------------------------------
+# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
+# email igbinijesusamuel@gmail.com
+# -----------------------------------------------------------
+"""MagicClass.
 
+This module contains code representing a circle.
+
+Usage Example:
+
+    MagicClass = __import__('103-magic_class').MagicClass
+
+    a_circle = MagicClass(5)
+    print(a_circle.area())
+"""
 import math
 
 
@@ -20,8 +33,8 @@ class MagicClass:
 
     def area(self):
         """Return the area of the MagicClass."""
-        return (self.__radius ** 2 * math.pi)
+        return self.__radius**2 * math.pi
 
     def circumference(self):
         """Return The circumference of the MagicClass."""
-        return (2 * math.pi * self.__radius)
+        return 2 * math.pi * self.__radius
