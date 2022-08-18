@@ -1,43 +1,73 @@
 #!/usr/bin/python3
-"""Module 3-rectangle
-Defines a Rectangle class.
+# -----------------------------------------------------------
+# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
+# email igbinijesusamuel@gmail.com
+# -----------------------------------------------------------
+"""Rectangle Class.
+
+This module contains an empty class that defines a rectangle.
+
+Usage Example:
+
+    Rectangle = __import__('0-rectangle').Rectangle
+
+    my_rectangle = Rectangle()
+    print(type(my_rectangle))
+    print(my_rectangle.__dict__)
 """
 
 
 class Rectangle:
-    """Rectangle class defined by width and height."""
+    """Defines the blueprint of a rectangle.
+
+    Attribute:
+        width: An integer indicating the width of the rectangle object.
+        height: An integer indicating the height of the rectangle object.
+    """
 
     def __init__(self, width=0, height=0):
-        """Initializes a Rectangle instance.
+        """An object constructor method.
+
+        Initiatilizes Rectangle with width and height.
+
         Args:
-            width: width of the rectangle
-            height: height of the rectangle
+            width: An integer representing object width.
+                  Has a default value of 0.
+            height: An integer representing object height.
+                  Has a default value of 0.
         """
-        self.width = width
-        self.height = height
+        self.__width = width
+        self.__height = height
 
     def __str__(self):
         """Returns an informal and nicely printable string representation
         of a Rectangle instance, filled with the '#' character."""
         if self.__height == 0 or self.__width == 0:
-            return ''
-        rec_str = ''
+            return ""
+        rec_str = ""
         for i in range(self.__height):
             for j in range(self.__width):
-                rec_str += '#'
-            rec_str += '\n'
+                rec_str += "#"
+            rec_str += "\n"
         return rec_str[:-1]
 
     @property
     def width(self):
-        """Retrieves the width of a Rectangle instance."""
+        """Gets the width private attribute value.
+
+        Returns:
+            The width private attribute
+        """
         return self.__width
 
     @width.setter
     def width(self, value):
-        """Sets the width of a Rectangle instance
-        Args:
-            value: value of the width, must be a positive integer
+        """Sets the width private attribute value.
+
+        Validates the assignment of the width private attribute.
+
+        Arg:
+            value: the value to be set
         """
         if not isinstance(value, int):
             raise TypeError("width must be an integer")
@@ -47,14 +77,21 @@ class Rectangle:
 
     @property
     def height(self):
-        """Retrieves the height of a Rectangle instance."""
+        """Gets the height private attribute value.
+
+        Returns:
+            The height private attribute
+        """
         return self.__height
 
     @height.setter
     def height(self, value):
-        """Sets the height of a Rectangle instance
-        Args:
-            value: value of the height, must be a positive integer
+        """Sets the height private attribute value.
+
+        Validates the assignment of the height private attribute.
+
+        Arg:
+            value: the value to be set
         """
         if not isinstance(value, int):
             raise TypeError("height must be an integer")
@@ -63,17 +100,20 @@ class Rectangle:
         self.__height = value
 
     def area(self):
-        """Calculates the area of a Rectangle instance
+        """A public object method.
+
         Returns:
-            Area of the the rectangle, given by height * width
+            The current rectangle area
         """
         return self.__width * self.__height
 
     def perimeter(self):
-        """Calculates the perimeter of a Rectangle instance
+        """A public object method.
+
         Returns:
-            Perimeter of the rectangle, given by 2 * (height + width)
+            The current rectangle perimeter
         """
-        if self.__height == 0 or self.__width == 0:
+        if self.width == 0 or self.height == 0:
             return 0
-        return 2 * (self.__width + self.__height)
+        else:
+            return 2 * (self.__width + self.__height)
