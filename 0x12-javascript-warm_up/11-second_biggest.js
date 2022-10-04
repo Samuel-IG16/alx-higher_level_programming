@@ -9,4 +9,3 @@ if (args.length <= 1) {
 	return b - a;
     })[1]);
 }
-

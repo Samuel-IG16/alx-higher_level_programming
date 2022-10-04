@@ -5,4 +5,3 @@ if (isNaN(convertArg)) {
 } else {
     console.log('My number: ' + convertArg);
 }
-

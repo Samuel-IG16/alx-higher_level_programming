@@ -4,4 +4,3 @@ module.exports = {
 	return f(n + 1);
     }
 };
-
